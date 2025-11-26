@@ -1,0 +1,7 @@
+{
+  "name": "Mela",
+  "description": "A ChatGPT-like experience with seamless voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
